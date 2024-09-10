@@ -2,4 +2,4 @@
 
 
 
-[![HitCount](https://hits.dwyl.com/kwokmoro/kwokmorogithubio.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kwokmoro/kwokmorogithubio)
+[![HitCount](https://hits.dwyl.com/kwokmoro/kwokmoro.github.io.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kwokmoro/kwokmoro.github.io)
